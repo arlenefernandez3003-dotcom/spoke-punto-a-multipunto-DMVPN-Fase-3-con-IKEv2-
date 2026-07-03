@@ -530,7 +530,7 @@ VPC1> ping 202.50.73.66
 
 🎥 **[Ver en YouTube — enlace pendiente](#)**
 
-**Duración estimada:** < 8 minutos
+
 
 ---
 
